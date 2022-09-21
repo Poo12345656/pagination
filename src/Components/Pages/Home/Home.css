@@ -1,0 +1,24 @@
+.searchField {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    margin-left:28%;
+    width: 49%;
+    background: #f1f1f1;
+}
+
+
+.tableWrapper{
+    margin-top: 80px;
+}
+h1.heading {
+    display: flex;
+    justify-content: center;
+    margin-top: 83px;
+    margin-left: 87px;
+    font-size: 42px;
+    color: gray;
+}

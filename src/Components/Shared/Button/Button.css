@@ -1,0 +1,15 @@
+.Button{
+    size: 32px;
+    margin: 6px;
+    border-radius:6px;
+    cursor: pointer;
+    padding: 8px 14px;
+
+}
+.buttonWrapper{
+    
+    margin-left:28%;
+  width: 50%;
+  
+  font-family: "Times New Roman";
+}
